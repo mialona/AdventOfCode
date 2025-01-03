@@ -20,7 +20,7 @@
 16 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 17 ★★ &nbsp;&nbsp;
 18 ★★ &nbsp;&nbsp;
-19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+19 ★★ &nbsp;&nbsp;
 20 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 21 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 22 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
