@@ -22,7 +22,7 @@
 18 ★★ &nbsp;&nbsp;
 19 ★★ &nbsp;&nbsp;
 20 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-21 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+21 ★&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 22 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 23 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 24 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
